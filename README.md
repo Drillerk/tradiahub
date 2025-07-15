@@ -1,39 +1,36 @@
-# 🛍️ TradiaHub
+# 👋 Hey there, I'm Eugine Okero
 
-**TradiaHub** is a powerful all-in-one platform combining:
+I'm a **full-stack developer** and digital builder from Kenya 🇰🇪, currently creating **TradiaHub** — a revolutionary platform that combines:
 
-- 🛒 E-commerce marketplace (like Amazon & Jumia)
-- 👨‍💻 Freelance hub (like Upwork & Fiverr)
-- 💰 Crypto wallet + exchange features
-- 📋 Remote task system (like Remotasks)
-- 🤝 B2B global trade zone (like Alibaba)
-
----
-
-## 🔧 Tech Stack
-
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js (coming)
-- **Database:** MongoDB (coming)
-- **Auth:** Firebase / JWT
-- **Payments:** Mpesa, Stripe, Crypto (future)
+- 🛒 E-commerce (Amazon-style marketplace)
+- 👩‍💻 Freelancing & gigs (like Fiverr/Upwork)
+- 💰 Crypto exchange + wallets
+- 📋 Remote tasking (like Remotasks)
+- 🤝 B2B global trade (like Alibaba)
 
 ---
 
-## 🔥 Features
-
-- Marketplace for goods & services  
-- Login / Register system  
-- Freelancer profiles & gig posting  
-- Crypto wallet UI  
-- Mobile-ready design
+## 🔧 Skills & Tools
+- React.js, Tailwind CSS, JavaScript
+- Node.js, Express, MongoDB
+- Firebase Auth, JWT, REST APIs
+- Git, GitHub, VSCode, Codespaces
 
 ---
 
-## 📌 Author
+## 📈 Current Focus
+- Building **TradiaHub** frontend
+- Setting up backend APIs (Node + MongoDB)
+- Adding user auth and secure payments
 
-Made with 💙 by **Eugine Okero**
+---
 
-> “Powering the Future of Digital Trade”
+## 🌍 Let's Connect
+- 💼 [LinkedIn](#) (add yours)
+- 🌐 Portfolio (coming soon)
+- 📫 **Email:** okeroeugine04@gmail.com
 
+---
+
+> *"Code it until you own it. Build your future, one deploy at a time."* 🚀
 
