@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Eugine Okero
+# 👋 Hey there, I'm Eugine Okello
 
 I'm a **full-stack developer** and digital builder from Kenya 🇰🇪, currently creating **TradiaHub** — a revolutionary platform that combines:
 
